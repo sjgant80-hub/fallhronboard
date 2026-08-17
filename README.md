@@ -26,8 +26,8 @@ Onboard new employees through 7 structured steps that capture everything the UK 
 
 ### Key rules
 
-- **Immigration Act 2006**: RTW verification before start date, TBAK civil penalty per illegal worker
-- **Pensions Act 2008**: auto-enrolment within 3 months for eligible jobholders (22+ earning TBAk+)
+- **Immigration Act 2006**: RTW verification before start date, £45K civil penalty per illegal worker
+- **Pensions Act 2008**: auto-enrolment within 3 months for eligible jobholders (22+ earning £10k+)
 - **ERA 1996 s.1**: written statement of particulars on or before day one
 - **HMRC starter checklist**: declarations A/B/C determine initial tax code
 - **UK GDPR Art.13**: privacy notice at point of data collection
