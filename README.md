@@ -36,4 +36,4 @@ Onboard new employees through 7 structured steps that capture everything the UK 
 
 ## Licence
 
-MIT · Simon Gant · prime 1013 · ◊·κ=1.
+MIT · Simon Gant.
